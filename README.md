@@ -3,7 +3,9 @@
 A simple Shell Created By using Golang.
 
 
-I've Used Os.Hostname in Os Package To Print The Hostname of the user.
+I've used Os.Hostname in Os Package To Print The Hostname of the user.
+
+"More Changes coming soon"
 
 
 ![Alt Text](./Images/nice.png "Shell Ss")
