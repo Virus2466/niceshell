@@ -15,7 +15,9 @@ func main() {
 	reader := bufio.NewReader(os.Stdin)
 
 	for {
-		fmt.Print("$ ")
+
+
+		fmt.Print("$~ ")
 
 		fmt.Printf(os.Hostname())
 
