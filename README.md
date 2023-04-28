@@ -14,6 +14,10 @@ I've used Os.Hostname in Os Package To Print The Hostname of the user.
 For Starting The shell
 
 ```
+ git clone https://github.com/Virus2466/niceshell.git
+ 
+ cd niceshell
+ 
 ./Go-Shell
 ```
 If It Says Permission Denied Please Give Access By Chmod.
